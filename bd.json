@@ -1,0 +1,24 @@
+}
+  "product" :[
+{"id":1,"name":"Goose, cape barren","category":"Teal"},
+{"id":2,"name":"Caiman, spectacled","category":"Green"},
+{"id":3,"name":"Genet, small-spotted","category":"Aquamarine"},
+{"id":4,"name":"Duiker, common","category":"Violet"},
+{"id":5,"name":"Tayra","category":"Green"},
+{"id":6,"name":"Peregrine falcon","category":"Fuscia"},
+{"id":7,"name":"Heron, giant","category":"Red"},
+{"id":8,"name":"Otter, small-clawed","category":"Violet"},
+{"id":9,"name":"Common seal","category":"Maroon"},
+{"id":10,"name":"Tern, royal","category":"Orange"},
+{"id":11,"name":"Deer, roe","category":"Red"},
+{"id":12,"name":"Gelada baboon","category":"Fuscia"},
+{"id":13,"name":"Great cormorant","category":"Pink"},
+{"id":14,"name":"Eagle, long-crested hawk","category":"Goldenrod"},
+{"id":15,"name":"Boa, mexican","category":"Pink"},
+{"id":16,"name":"Ibis, glossy","category":"Red"},
+{"id":17,"name":"Squirrel, malabar","category":"Goldenrod"},
+{"id":18,"name":"Civet, small-toothed palm","category":"Pink"},
+{"id":19,"name":"Roseat flamingo","category":"Orange"},
+{"id":20,"name":"White-cheeked pintail","category":"Violet"}
+]
+}
